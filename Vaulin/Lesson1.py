@@ -9,7 +9,7 @@ population = 13000000
 
 population_2 = str(population)
 
-print("Город: "+city+","+"Население: "+population_2)
+print("Город: " + city + "," + "Население: " + population_2)
 
 #Задача 2
 # Объявите переменную price и присвойте ей значение с плавающей точкой 19.99.
