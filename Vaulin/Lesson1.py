@@ -27,4 +27,7 @@ perimetr = visota + shirina_2
 
 print(perimetr, type(perimetr))
 
+#Задача 4
+
+
 
