@@ -43,6 +43,17 @@ perimetr = visota + shirina_2
 print(perimetr, type(perimetr))
 
 #Задача 4
+# Объявите переменную my_list и присвойте ей список из трёх любых чисел (целых).
+# Объявите переменную my_tuple и присвойте ей кортеж из трёх любых строк.
+# Выведите на экран:
+# содержимое переменной my_list и её тип,
+# содержимое переменной my_tuple и её тип.
 
+my_list = [18, 66, 47]
+
+my_tuple = ("Алгебра", "Конвой", "Рубикон")
+
+print(my_list, type(my_list))
+print(my_tuple, type(my_tuple))
 
 
