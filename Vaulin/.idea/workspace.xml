@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0babc66e-ac80-4c2a-8e3c-d1e2de00dc23" name="Changes" comment="Practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +39,14 @@
     "Python.Lesson1.executor": "Run",
     "Python.Lesson2 (1).executor": "Run",
     "Python.Lesson2.executor": "Run",
+    "Python.Lesson3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/Python/Проба Telegram Bot"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lesson2 (1)">
+  <component name="RunManager" selected="Python.Lesson3">
     <configuration name="Lesson1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Vaulin" />
       <option name="ENV_FILES" value="" />
@@ -112,8 +113,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lesson3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Vaulin" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lesson3" />
         <item itemvalue="Python.Lesson2 (1)" />
         <item itemvalue="Python.Lesson2" />
         <item itemvalue="Python.Lesson1" />
@@ -280,7 +304,31 @@
       <option name="project" value="LOCAL" />
       <updated>1768640473428</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1768640608590</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1768640608590</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1768640620163</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1768640620163</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1768640674429</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1768640674429</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
