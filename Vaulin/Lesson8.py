@@ -56,7 +56,16 @@
 # Вызовите декорированную функцию say_hello.
 # Подсказка: используйте синтаксис @my_decorator перед определением функции say_hello.
 
+def my_decorator(func):
 
+    def wrapper():
+        print("Начало работы функции")
+        func()
+        print("Завершение работы функции")
+    return wrapper
 
+@my_decorator
+def say_hello():
+    print("Привет!")
 
-
+say_hello()
