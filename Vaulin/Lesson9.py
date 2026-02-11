@@ -2,13 +2,13 @@
 # Создайте пустой класс с именем Animal.
 # После определения класса создайте объект (экземпляр) этого класса с именем dog.
 # Ничего выводить на экран не нужно.
-from Lesson8 import introduce
 
 
-#class Animal:
-#    pass
 
-#dog = Animal()
+class Animal:
+    pass
+
+dog = Animal()
 
 #Задача 2 (Конструктор класса init)
 # Создайте класс Person.
@@ -17,12 +17,12 @@ from Lesson8 import introduce
 # После определения класса создайте объект person1 этого класса с именем "Анна" и возрастом 25.
 # Ничего выводить на экран не нужно.
 
-#class Person:
-#    def __init__(self, name, age):
-#        self.name = name
-#        self.age = age
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
 
-#person1 = Person("Анна", 25)
+person1 = Person("Анна", 25)
 
 #Задача 3 (Методы класса)
 # Создайте класс Calculator с методом add.
@@ -32,17 +32,17 @@ from Lesson8 import introduce
 # Вызовите метод add у объекта calc с аргументами 7 и 3.
 # Сохраните результат в переменную result и выведите её на экран.
 
-#class Calculator:
-#    def add(self, a, b):
-#        return a + b
+class Calculator:
+    def add(self, a, b):
+        return a + b
 
-#calc = Calculator()
+calc = Calculator()
 
-#calc.add(7, 3)
+calc.add(7, 3)
 
-#result = calc.add(7, 3)
+result = calc.add(7, 3)
 
-#print(result)
+print(result)
 
 #Задача 4 (Общие атрибуты)
 # Создайте класс Car.
@@ -54,16 +54,16 @@ from Lesson8 import introduce
 # Выведите на экран значение атрибута класса wheels для объекта car1 (доступ через точку).
 # Выведите на экран значение атрибута экземпляра color для объекта car2.
 
-#class Car:
-#    wheels = 4
-#    def __init__(self, color):
-#        self.color = color
+class Car:
+    wheels = 4
+    def __init__(self, color):
+        self.color = color
 
-#car1 = Car("red")
-#car2 = Car("blue")
+car1 = Car("red")
+car2 = Car("blue")
 
-#print(car1.wheels)
-#print(car2.color)
+print(car1.wheels)
+print(car2.color)
 
 #Задача 5 (Понимание параметра self)
 # Создайте класс Student.
@@ -83,3 +83,32 @@ class Student:
 student1 = Student("Олег")
 
 student1.introduce()
+
+#Задача 6 (Объект класса)
+# Создайте класс Book.
+# Добавьте конструктор __init__, который принимает параметры title и author и сохраняет их как атрибуты экземпляра.
+# Добавьте метод get_info, который возвращает строку в формате: "Название: [title], Автор: [author]".
+# После определения класса:
+# Создайте три объекта класса Book с разными названиями и авторами (любые книги на ваш выбор).
+# Сохраните эти объекты в список books.
+# Используя цикл for, пройдите по списку и для каждой книги выведите результат работы метода get_info.
+
+class Book:
+    def __init__(self, title, author):
+        self.title = title
+        self.author = author
+
+    def get_info(self):
+        return(f"Название: {self.title}, Автор: {self.author}")
+
+book1 = Book("All You Need Is Kill", "Hirosy Sakuradsaka")
+book2 = Book("1984", "George Orwell")
+book3 = Book("Silmarillion","J. R. R. Tolkien")
+
+books = [book1, book2, book3]
+for book in books:
+
+    print(book.get_info())
+
+
+

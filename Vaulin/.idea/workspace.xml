@@ -34,24 +34,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Lesson1.executor": "Run",
-    "Python.Lesson2 (1).executor": "Run",
-    "Python.Lesson2.executor": "Run",
-    "Python.Lesson3.executor": "Run",
-    "Python.Lesson4.executor": "Run",
-    "Python.Lesson5.executor": "Run",
-    "Python.Lesson6.executor": "Run",
-    "Python.Lesson7.executor": "Run",
-    "Python.Lesson8.executor": "Run",
-    "Python.Lesson9.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Python/Проба Telegram Bot"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Lesson1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python/Проба Telegram Bot&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.Lesson9">
     <configuration name="Lesson5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Vaulin" />
@@ -541,7 +541,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770542990493</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1770825895732</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1770825895732</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
