@@ -82,7 +82,7 @@ class Student(Person):
     def __init__(self,name ,student_id):
         self.student_id = student_id
         super().__init__(name)  #super() — это встроенная функция в Python, которая автоматически определяет родительский класс и позволяет обращаться к его методам.
-                                #Person.__init__(self, name)  # Вариант 2. Явное указание родителя
+                                #Person.__init__(self, name)  #Вариант 2. Явное указание родителя
 
     def introduce(self):
         print(f"Меня зовут {self.name}, мой студенческий ID: {self.student_id}")
