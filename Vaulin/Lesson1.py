@@ -95,7 +95,7 @@ width = 4
 
 area = length * width
 
-print("Значение:", area, ",", "Тип:", type(area)) #print(f"Значение: {area}, Тип: {type(area)}") - с использованием f-строки
+print("Значение:",area, ",", "Тип:", type(area)) #print(f"Значение: {area}, Тип: {type(area)}") - с использованием f-строки
 
 #Задача 8
 # Объявите две переменные:
