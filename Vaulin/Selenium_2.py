@@ -10,6 +10,9 @@ first_name_filed.send_keys("Alex")
 last_name_filed = driver.find_element("xpath", "//input[@id='lastName']")
 last_name_filed.send_keys("Vaulin")
 
+email_filed = driver.find_element("xpath", "//input[@id='userEmail']")
+email_filed.send_keys("avaulin@email.com")
+
 
 
 
