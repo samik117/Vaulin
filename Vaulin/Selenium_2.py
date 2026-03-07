@@ -5,7 +5,7 @@ options = webdriver.ChromeOptions()
 # options.add_argument("--headless") # или options.add_argument("--headless=new")
 # options.add_argument("--incognito")
 # options.add_argument("--ignore-certificate-errors")
-#options.add_argument("--window-size=1920,1080")
+# options.add_argument("--window-size=1920,1080")
 
 FILE_UPLOAD_FIELD = ("xpath", "//input[@id='uploadFile']")
 

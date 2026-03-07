@@ -47,6 +47,7 @@
     &quot;Python.Lesson8.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lesson9.executor&quot;: &quot;Run&quot;,
     &quot;Python.Selenium_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Selenium_2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Test.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -54,6 +55,11 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Python/Проба Telegram Bot&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\Team4\Vaulin\image" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.Selenium_2">
     <configuration name="Lesson2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Vaulin" />
@@ -190,14 +196,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768036328120</updated>
-    </task>
-    <task id="LOCAL-00005" summary="First commit">
-      <option name="closed" value="true" />
-      <created>1768382685722</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1768382685722</updated>
     </task>
     <task id="LOCAL-00006" summary="First commit">
       <option name="closed" value="true" />
@@ -583,7 +581,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772374043635</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1772884167410</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1772884167410</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
