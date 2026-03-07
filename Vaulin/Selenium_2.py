@@ -61,6 +61,14 @@ FILE_UPLOAD_FIELD = ("xpath", "//input[@id='uploadPicture']")
 file_filed = driver.find_element(*FILE_UPLOAD_FIELD)
 file_filed.send_keys(r"D:\Python\Team4\Vaulin\image\foto.jpeg")
 
+# Текущий адрес
+address_filed = driver.find_element("xpath", "//textarea[@id='currentAddress']")
+address_filed.click()
+assert address_filed.get_attribute("value") == ""
+address_filed.send_keys("Галактика млечный путь, солнечная система, планета Земля")
+assert "Галактика млечный путь, солнечная система, планета Земля" in address_filed.get_attribute("value")
+
+
 
 
 
