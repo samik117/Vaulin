@@ -13,6 +13,6 @@ driver = webdriver.Chrome(options=options)
 driver.get("https://demoqa.com/upload/download")
 
 file_filed = driver.find_element(*FILE_UPLOAD_FIELD)
-file_filed.send_keys(r"D:\Python\Team4\Vaulin\image\example.jpeg")
+file_filed.send_keys(r"D:\Python\Team4\Vaulin\image\foto.jpeg")
 
 time.sleep(5)

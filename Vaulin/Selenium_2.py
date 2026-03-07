@@ -2,6 +2,7 @@ import time
 from selenium import webdriver
 from selenium.webdriver import Keys
 
+options = webdriver.ChromeOptions()
 driver = webdriver.Chrome()
 driver.get("https://demoqa.com/automation-practice-form")
 
@@ -45,14 +46,20 @@ birth_day.send_keys(Keys.CONTROL + "a") # Выделяем предыдущее 
 birth_day.send_keys("14 Aug 1990") # Вводим наше значение
 birth_day.send_keys(Keys.ENTER) # Жмем Интер
 
+# Поле предметы
+subjects_filed = driver.find_element("xpath", "//input[@id='subjectsInput']")
+subjects_filed.click()
+assert subjects_filed.get_attribute("value") == ""
+subjects_filed.send_keys("Какие-то предметы")
+assert "Какие-то предметы" in subjects_filed.get_attribute("value")
 
+# Чек боксы
 
+# Загрузка файла
+FILE_UPLOAD_FIELD = ("xpath", "//input[@id='uploadPicture']")
 
-
-
-
-
-
+file_filed = driver.find_element(*FILE_UPLOAD_FIELD)
+file_filed.send_keys(r"D:\Python\Team4\Vaulin\image\foto.jpeg")
 
 
 
