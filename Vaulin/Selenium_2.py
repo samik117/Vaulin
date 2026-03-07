@@ -69,13 +69,4 @@ address_filed.send_keys("Галактика млечный путь, солне�
 assert "Галактика млечный путь, солнечная система, планета Земля" in address_filed.get_attribute("value")
 
 
-
-
-
-
-
-
-
-
-
 time.sleep(5)
