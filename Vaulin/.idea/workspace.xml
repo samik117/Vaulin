@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0babc66e-ac80-4c2a-8e3c-d1e2de00dc23" name="Changes" comment="Practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,30 +34,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.2.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson2 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Python/Проба Telegram Bot&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.2.2.executor": "Run",
+    "Python.Lesson1.executor": "Run",
+    "Python.Lesson10.executor": "Run",
+    "Python.Lesson2 (1).executor": "Run",
+    "Python.Lesson2.executor": "Run",
+    "Python.Lesson3.executor": "Run",
+    "Python.Lesson4.executor": "Run",
+    "Python.Lesson5.executor": "Run",
+    "Python.Lesson6.executor": "Run",
+    "Python.Lesson7.executor": "Run",
+    "Python.Lesson8.executor": "Run",
+    "Python.Lesson9.executor": "Run",
+    "Python.Selenium_1.executor": "Run",
+    "Python.Selenium_2.executor": "Run",
+    "Python.Selenium_3.executor": "Run",
+    "Python.Selenium_4.executor": "Run",
+    "Python.Test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Python/Проба Telegram Bot"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python\Team4\Vaulin\image" />
@@ -199,14 +200,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768036328120</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Practice">
-      <option name="closed" value="true" />
-      <created>1768639601720</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1768639601720</updated>
     </task>
     <task id="LOCAL-00018" summary="Practice">
       <option name="closed" value="true" />
@@ -592,7 +585,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772894947587</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1773589251945</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1773589251945</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
