@@ -27,6 +27,7 @@ driver.get("https://demoqa.com/alerts")
 
 driver.find_element("xpath", "//button[@id='alertButton']").click()
 
+# alert = wait.until(EC.alert_is_present()) # используя явное ожидание
 alert = driver.switch_to.alert # переключится на алерт
 
 time.sleep(6)
