@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0babc66e-ac80-4c2a-8e3c-d1e2de00dc23" name="Changes" comment="Practice" />
+    <list default="true" id="0babc66e-ac80-4c2a-8e3c-d1e2de00dc23" name="Changes" comment="Practice">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,36 +34,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.2.2.executor": "Run",
-    "Python.Lesson1.executor": "Run",
-    "Python.Lesson10.executor": "Run",
-    "Python.Lesson2 (1).executor": "Run",
-    "Python.Lesson2.executor": "Run",
-    "Python.Lesson3.executor": "Run",
-    "Python.Lesson4.executor": "Run",
-    "Python.Lesson5.executor": "Run",
-    "Python.Lesson6.executor": "Run",
-    "Python.Lesson7.executor": "Run",
-    "Python.Lesson8.executor": "Run",
-    "Python.Lesson9.executor": "Run",
-    "Python.Selenium_1.executor": "Run",
-    "Python.Selenium_2.executor": "Run",
-    "Python.Selenium_3.executor": "Run",
-    "Python.Test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Python/Проба Telegram Bot"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lesson9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Selenium_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Selenium_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Selenium_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python/Проба Telegram Bot&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python\Team4\Vaulin\image" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Selenium_2">
+  <component name="RunManager" selected="Python.Selenium_4">
     <configuration name="2.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Vaulin" />
       <option name="ENV_FILES" value="" />
@@ -149,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Vaulin" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +165,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Selenium_2" />
+        <item itemvalue="Python.Selenium_4" />
         <item itemvalue="Python.Selenium_3" />
+        <item itemvalue="Python.Selenium_2" />
         <item itemvalue="Python.Selenium_1" />
         <item itemvalue="Python.2.2" />
-        <item itemvalue="Python.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -196,14 +199,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768036328120</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Practice">
-      <option name="closed" value="true" />
-      <created>1768639576096</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1768639576096</updated>
     </task>
     <task id="LOCAL-00017" summary="Practice">
       <option name="closed" value="true" />
@@ -589,7 +584,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772894889742</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1772894947587</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1772894947587</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
