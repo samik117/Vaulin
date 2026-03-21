@@ -49,9 +49,8 @@ birth_day.send_keys(Keys.ENTER) # Жмем Интер
 # Поле предметы
 subjects_filed = driver.find_element("xpath", "//input[@id='subjectsInput']")
 subjects_filed.click()
-assert subjects_filed.get_attribute("value") == ""
-subjects_filed.send_keys("Какие-то предметы")
-assert "Какие-то предметы" in subjects_filed.get_attribute("value")
+subjects_filed.send_keys("Maths")
+subjects_filed.send_keys(Keys.ENTER)  # Выбираем первый вариант из списка
 
 # Чек боксы
 
@@ -69,4 +68,4 @@ address_filed.send_keys("Галактика млечный путь, солне�
 assert "Галактика млечный путь, солнечная система, планета Земля" in address_filed.get_attribute("value")
 
 
-time.sleep(5)
+time.sleep(15)
