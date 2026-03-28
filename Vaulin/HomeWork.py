@@ -21,7 +21,7 @@ time.sleep(0.5)
 assert driver.current_url == "https://www.saucedemo.com/", "Указанный сайт не верен"
 print("Сайт указан верно")
 
-# Заполняем поле Юзернейм
+# Заполняем поле Username
 username_filed = driver.find_element("xpath", "//input[@id='user-name']")   # Находим поле Username
 username_filed.send_keys("standard_user")
 time.sleep(0.5)
