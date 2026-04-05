@@ -45,3 +45,28 @@ SET_3 = driver.find_element(*SET_3_LOCATOR)
 action.move_to_element(SET_1).move_to_element(SET_2).move_to_element(SET_3).perform()
 
 time.sleep(5)
+
+# Третья часть
+
+import time
+from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.common.action_chains import ActionChains
+
+driver = webdriver.Chrome()
+driver.get("https://demoqa.com/droppable")
+wait = WebDriverWait(driver, 10, poll_frequency=1)
+action = ActionChains(driver)
+
+# source это то, что перетягиваем
+# target это то, куда перетягиваем
+
+SOURCE_LOCATOR = ("xpath", "//div[@id='draggable']")
+TARGET_LOCATOR = ("xpath", "//div[@id='droppable']")
+
+SOURCE = driver.find.element(*SOURCE_LOCATOR)
+TARGET = driver.find.element(*TARGET_LOCATOR)
+
+action.drag_and_drop(SOURCE, TARGET).perform()
+
+time.sleep(5)
