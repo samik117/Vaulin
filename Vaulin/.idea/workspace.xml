@@ -33,41 +33,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.2.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson2 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.proba.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Python/WWII/WWII&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.2.2.executor": "Run",
+    "Python.HomeWork.executor": "Run",
+    "Python.Lesson1.executor": "Run",
+    "Python.Lesson10.executor": "Run",
+    "Python.Lesson2 (1).executor": "Run",
+    "Python.Lesson2.executor": "Run",
+    "Python.Lesson3.executor": "Run",
+    "Python.Lesson4.executor": "Run",
+    "Python.Lesson5.executor": "Run",
+    "Python.Lesson6.executor": "Run",
+    "Python.Lesson7.executor": "Run",
+    "Python.Lesson8.executor": "Run",
+    "Python.Lesson9.executor": "Run",
+    "Python.Selenium_1.executor": "Run",
+    "Python.Selenium_2.executor": "Run",
+    "Python.Selenium_3.executor": "Run",
+    "Python.Selenium_4.executor": "Run",
+    "Python.Selenium_5.executor": "Run",
+    "Python.Selenium_6.executor": "Run",
+    "Python.Selenium_7.executor": "Run",
+    "Python.Selenium_8.executor": "Run",
+    "Python.Test.executor": "Run",
+    "Python.proba.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Python/WWII/WWII"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python\Team4\Vaulin\image" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.HomeWork">
+  <component name="RunManager" selected="Python.Selenium_8">
     <configuration name="HomeWork" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Vaulin" />
       <option name="ENV_FILES" value="" />
@@ -104,28 +106,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Selenium_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Vaulin" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,13 +158,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Selenium_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Vaulin" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selenium_8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Selenium_8" />
         <item itemvalue="Python.HomeWork" />
         <item itemvalue="Python.Selenium_7" />
         <item itemvalue="Python.Selenium_6" />
         <item itemvalue="Python.Selenium_2" />
-        <item itemvalue="Python.Selenium_5" />
       </list>
     </recent_temporary>
   </component>
@@ -203,30 +205,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768036328120</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Practice">
-      <option name="closed" value="true" />
-      <created>1769327879198</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1769327879198</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Practice">
-      <option name="closed" value="true" />
-      <created>1769329081326</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1769329081326</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Practice">
-      <option name="closed" value="true" />
-      <created>1769329687763</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1769329687763</updated>
     </task>
     <task id="LOCAL-00027" summary="Practice">
       <option name="closed" value="true" />
@@ -596,7 +574,31 @@
       <option name="project" value="LOCAL" />
       <updated>1774197756194</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1774687527215</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1774687527215</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1774689181759</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1774689181759</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1774689571581</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1774689571581</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
