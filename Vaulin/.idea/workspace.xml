@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0babc66e-ac80-4c2a-8e3c-d1e2de00dc23" name="Changes" comment="Practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_PyTest_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_PyTest_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +44,7 @@
     &quot;Python tests.Python tests in PyTest_1.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in proba.py.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests in test_HomeWork2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_PyTest_1.py.executor&quot;: &quot;Run&quot;,
     &quot;Python.2.2.executor&quot;: &quot;Run&quot;,
     &quot;Python.HomeWork.executor&quot;: &quot;Run&quot;,
     &quot;Python.Lesson1.executor&quot;: &quot;Run&quot;,
@@ -131,22 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768036328120</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Practice">
-      <option name="closed" value="true" />
-      <created>1769626669932</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1769626669932</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Practice">
-      <option name="closed" value="true" />
-      <created>1769626696828</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1769626696828</updated>
     </task>
     <task id="LOCAL-00033" summary="Practice">
       <option name="closed" value="true" />
@@ -524,7 +510,23 @@
       <option name="project" value="LOCAL" />
       <updated>1775391763502</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1776509584847</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1776509584847</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1776509657881</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1776509657881</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
