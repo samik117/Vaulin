@@ -25,7 +25,7 @@ def driver(request):
 @allure.epic("HomeWork")
 class TestHomeWork:
     @pytest.mark.smoke
-    @allure.title("Buy clothers")
+    @allure.title("Buy clothes")
     @allure.severity(Severity.BLOCKER)
     @allure.link(url="https://confluence.com/buy_clothers", name="Documentation" )
     def test_open_page(self):
@@ -249,3 +249,5 @@ class TestHomeWork:
 
 # pytest test_HomeWork2.py --alluredir=allure-results       команда на прогон
 # allure serve allure-results                               команда на отчет
+# $env:STAGE="Stage-1.qa";$env:BROWSER="Chrome";$env:MR="https://google.com";$env:PYTHON="ver 3.14"; pytest test_HomeWork2.py --alluredir=allure-results описание окружения и запуск
+

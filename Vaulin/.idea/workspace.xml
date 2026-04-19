@@ -5,32 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0babc66e-ac80-4c2a-8e3c-d1e2de00dc23" name="Changes" comment="Practice">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/09c7ecb8-cdd7-4f21-8904-e6604e2208d6-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/11bd495c-62e0-46ff-8deb-19ab90cd4883-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/28f60163-7e03-4753-9468-5a345877567d-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/29ad08b3-4f1d-4677-87e1-f4f10365976a-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/49babe0f-99ea-468f-8006-81a75e274ef0-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/4bf06e9b-dba6-4e07-a463-b410a1c1452a-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/551fca7c-da08-48a1-97c4-385e00169a51-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5620db53-ae58-47ec-92e0-b7006ce35a8e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/5cd8aad8-674c-414b-8179-430b92fe4d73-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/63906ccd-7a56-40fe-a264-961e1aabc244-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7580f8f6-39e0-4a6b-b193-898e38713808-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/7f6372a5-104e-44fd-b58b-b6c6cf6f532c-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/8376a45a-38c2-4721-b562-0f0a1c1489df-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/841d68ad-4537-4789-a383-539f8603be49-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/a05fc496-2031-48b8-a090-ac80b6c46e27-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/b4765896-47c7-4dd5-9baa-828ea7723091-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/be98da7f-a353-470e-9466-28432f3c9353-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/c646c52a-13c3-4b58-836f-2f6e50757aea-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/cbf4551f-995d-4b8b-9c98-f6ed8fcecbb1-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/d564db7b-daf7-4168-8554-6edb5b7ecdf0-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/ddbe1f89-25f1-4367-b3a5-03560bd155b7-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e240c080-2acf-40ea-98d0-0e61ba956e3f-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/e30e423b-48c6-4906-a16d-3c655c19ef84-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-results/f253b79d-3952-47d3-82e4-43b5f0ec0a05-attachment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_HomeWork2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_HomeWork2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,22 +197,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768036328120</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Practice">
-      <option name="closed" value="true" />
-      <created>1770221304852</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1770221304852</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Practice">
-      <option name="closed" value="true" />
-      <created>1770538234201</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1770538234201</updated>
     </task>
     <task id="LOCAL-00039" summary="Practice">
       <option name="closed" value="true" />
@@ -615,7 +574,23 @@
       <option name="project" value="LOCAL" />
       <updated>1776604712875</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1776608798420</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1776608798420</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1776608812534</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1776608812534</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
