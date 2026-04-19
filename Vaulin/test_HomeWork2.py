@@ -1,3 +1,5 @@
+import allure
+from allure_commons.types import Severity
 import time
 import pytest
 from selenium import webdriver
@@ -19,9 +21,12 @@ def driver(request):
     driver.quit()
 
 
-
+@allure.epic("HomeWork")
 class TestHomeWork:
     @pytest.mark.smoke
+    @allure.title("Buy clothers")
+    @allure.severity(Severity.BLOCKER)
+    @allure.link(url="https://confluence.com/buy_clothers", name="Documentation" )
     def test_open_page(self):
         self.driver.get("https://www.saucedemo.com")
         assert self.driver.current_url.rstrip('/') == "https://www.saucedemo.com", "Указанный сайт не верен"

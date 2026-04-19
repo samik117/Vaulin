@@ -5,5 +5,5 @@ from selenium import webdriver
 def driver(request):
     driver = webdriver.Chrome()
     request.cls.driver = driver
-    yield driver
+    yield
     driver.quit()

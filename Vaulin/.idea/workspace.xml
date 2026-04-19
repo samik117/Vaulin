@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0babc66e-ac80-4c2a-8e3c-d1e2de00dc23" name="Changes" comment="Practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyTest_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_HomeWork.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_HomeWork2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_HomeWork2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,9 +179,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python tests.Python tests in test_HomeWork2.py" />
+        <item itemvalue="Python tests.Python tests for test_HomeWork2.TestHomeWork.test_open_page" />
         <item itemvalue="Python tests.Python tests for test_HomeWork.TestHomeWork.test_open_page" />
         <item itemvalue="Python tests.Python tests in test_HomeWork.py" />
-        <item itemvalue="Python tests.Python tests for test_HomeWork2.TestHomeWork.test_open_page" />
         <item itemvalue="Python.HomeWork" />
       </list>
     </recent_temporary>
@@ -198,14 +201,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768036328120</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Practice">
-      <option name="closed" value="true" />
-      <created>1769933007217</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1769933007217</updated>
     </task>
     <task id="LOCAL-00035" summary="Practice">
       <option name="closed" value="true" />
@@ -591,7 +586,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776512866093</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1776596433236</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1776596433236</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
