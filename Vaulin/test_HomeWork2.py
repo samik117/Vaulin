@@ -9,14 +9,10 @@ from selenium.webdriver.chrome.options import Options
 
 @pytest.fixture()
 def driver(request):
-    options = webdriver.ChromeOptions()
-    options.add_argument("--incognito")
-    options.add_experimental_option("prefs", {
-        "credentials_enable_service": False,
-        "profile.password_manager_enabled": False
-    }
-    )
-    driver = webdriver.Chrome(options=options)
+    chrome_options = Options()
+    chrome_options.add_argument("--incognito")
+    chrome_options.add_experimental_option("excludeSwitches", ["enable-logging"])
+    driver = webdriver.Chrome(options=chrome_options)
     request.cls.driver = driver # создай мне в классе объект драйвер
     yield
     driver.quit()
