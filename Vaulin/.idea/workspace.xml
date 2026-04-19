@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0babc66e-ac80-4c2a-8e3c-d1e2de00dc23" name="Changes" comment="Practice">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_HomeWork.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_HomeWork2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_HomeWork2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,57 +37,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for PyTest_1.TestExample.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_HomeWork.TestHomeWork.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_HomeWork.TestHomeWork.test_join_product.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_HomeWork.TestHomeWork.test_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_HomeWork.TestHomeWork.test_open_page.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_HomeWork.TestHomeWork.test_open_page_and_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_HomeWork.TestHomeWork.test_username_filed.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_HomeWork.test_username_filed.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_HomeWork2.TestHomeWork.test_open_page.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_HomeWork2.TestHomeWork2.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_PyTest_1.TestExample.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_PyTest_1.TestPyTest_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_PyTest_1.TestPyTest_1.test_valid_data.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in PyTest_1.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in proba.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_HomeWork.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_HomeWork2.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_PyTest_1.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HomeWork.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson2 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lesson9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Selenium_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.proba.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Обучение/ini-242.23339.16.zip&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for PyTest_1.TestExample.executor": "Run",
+    "Python tests.Python tests for test_HomeWork.TestHomeWork.executor": "Run",
+    "Python tests.Python tests for test_HomeWork.TestHomeWork.test_join_product.executor": "Run",
+    "Python tests.Python tests for test_HomeWork.TestHomeWork.test_login.executor": "Run",
+    "Python tests.Python tests for test_HomeWork.TestHomeWork.test_open_page.executor": "Run",
+    "Python tests.Python tests for test_HomeWork.TestHomeWork.test_open_page_and_login.executor": "Run",
+    "Python tests.Python tests for test_HomeWork.TestHomeWork.test_username_filed.executor": "Run",
+    "Python tests.Python tests for test_HomeWork.test_username_filed.executor": "Run",
+    "Python tests.Python tests for test_HomeWork2.TestHomeWork.test_open_page.executor": "Run",
+    "Python tests.Python tests for test_HomeWork2.TestHomeWork2.executor": "Run",
+    "Python tests.Python tests for test_PyTest_1.TestExample.executor": "Run",
+    "Python tests.Python tests for test_PyTest_1.TestPyTest_1.executor": "Run",
+    "Python tests.Python tests for test_PyTest_1.TestPyTest_1.test_valid_data.executor": "Run",
+    "Python tests.Python tests in PyTest_1.py.executor": "Run",
+    "Python tests.Python tests in proba.py.executor": "Run",
+    "Python tests.Python tests in test_HomeWork.py.executor": "Run",
+    "Python tests.Python tests in test_HomeWork2.py.executor": "Run",
+    "Python tests.Python tests in test_PyTest_1.py.executor": "Run",
+    "Python.2.2.executor": "Run",
+    "Python.HomeWork.executor": "Run",
+    "Python.Lesson1.executor": "Run",
+    "Python.Lesson10.executor": "Run",
+    "Python.Lesson2 (1).executor": "Run",
+    "Python.Lesson2.executor": "Run",
+    "Python.Lesson3.executor": "Run",
+    "Python.Lesson4.executor": "Run",
+    "Python.Lesson5.executor": "Run",
+    "Python.Lesson6.executor": "Run",
+    "Python.Lesson7.executor": "Run",
+    "Python.Lesson8.executor": "Run",
+    "Python.Lesson9.executor": "Run",
+    "Python.Selenium_1.executor": "Run",
+    "Python.Selenium_2.executor": "Run",
+    "Python.Selenium_3.executor": "Run",
+    "Python.Selenium_4.executor": "Run",
+    "Python.Selenium_5.executor": "Run",
+    "Python.Selenium_6.executor": "Run",
+    "Python.Selenium_7.executor": "Run",
+    "Python.Selenium_8.executor": "Run",
+    "Python.Selenium_9.executor": "Run",
+    "Python.Test.executor": "Run",
+    "Python.proba.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Обучение/ini-242.23339.16.zip",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Python\Team4\Vaulin\image" />
@@ -197,6 +201,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768036328120</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1769933035295</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1769933035295</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1770221273912</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1770221273912</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1770221304852</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1770221304852</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Practice">
+      <option name="closed" value="true" />
+      <created>1770538234201</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1770538234201</updated>
     </task>
     <task id="LOCAL-00039" summary="Practice">
       <option name="closed" value="true" />
@@ -558,39 +594,7 @@
       <option name="project" value="LOCAL" />
       <updated>1776596433236</updated>
     </task>
-    <task id="LOCAL-00084" summary="Practice">
-      <option name="closed" value="true" />
-      <created>1776602321074</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1776602321074</updated>
-    </task>
-    <task id="LOCAL-00085" summary="Practice">
-      <option name="closed" value="true" />
-      <created>1776604712875</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1776604712875</updated>
-    </task>
-    <task id="LOCAL-00086" summary="Practice">
-      <option name="closed" value="true" />
-      <created>1776608798420</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1776608798420</updated>
-    </task>
-    <task id="LOCAL-00087" summary="Practice">
-      <option name="closed" value="true" />
-      <created>1776608812534</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1776608812534</updated>
-    </task>
-    <option name="localTasksCounter" value="88" />
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
